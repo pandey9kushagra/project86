@@ -1,0 +1,23 @@
+.body_backgorund 
+{
+    background-image:url(hOye.gif);
+
+    background-size:cover;
+}
+#myCanvas
+{
+  border-width: 10px; 
+  border-color: black;
+  border-style: ridge;
+  background-color:white;
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+
+button{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+}
